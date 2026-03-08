@@ -1,3 +1,8 @@
+## Video
+
+https://github.com/user-attachments/assets/ae420a8e-9a79-439f-93fd-5b256ea22bf7
+
+
 ## Relatorio Tecnico Cisco Packet Tracer
 
 ### 1) Cenario 1 - Rede com HUB (meio compartilhado)
